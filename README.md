@@ -8,7 +8,7 @@
 # instalar
 
 
--	modificar el archivo conexion.php
+-	modificar el archivo **conexion.php**
 	
 -	cambiar las conexiones a tu base de datos.
 	
@@ -16,20 +16,25 @@
 	
 -	usuario y contraseña por defecto
 	
-	USUARIO : admin
-	PASSWORD : adm123
+	**USUARIO :** admin
+	**PASSWORD :** adm123
 	
 	
 # Sources
 
-	librería de base de datos [EZ_sql](http://justinvincent.com/ezsql) :
-		http://justinvincent.com/ezsql
+1.	librería de base de datos [EZ_sql](http://justinvincent.com/ezsql) :
+#####		 http://justinvincent.com/ezsql
 		
-	librerías de paginación [Zebra_Pagination](http://stefangabos.ro/php-libraries/zebra-pagination/) :
-		http://stefangabos.ro/php-libraries/zebra-pagination/
+2.	librerías de paginación [Zebra_Pagination](http://stefangabos.ro/php-libraries/zebra-pagination/) :
+#####	http://stefangabos.ro/php-libraries/zebra-pagination/
 		
-	framework css [bootstrap twitter](http://twitter.github.com/bootstrap/): 
-		http://twitter.github.com/bootstrap/
+3.	framework css [bootstrap twitter](http://twitter.github.com/bootstrap/): 
+#####		 http://twitter.github.com/bootstrap/
 		
-	framework JavaScript [JQuery](http://jquery.com/):
-		http://jquery.com/
+4.	framework JavaScript [JQuery](http://jquery.com/):
+#####		 http://jquery.com/
+
+
+
+
+###### [MaxiLabs](http://maxilabs.us)
