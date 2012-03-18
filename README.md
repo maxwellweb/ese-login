@@ -9,6 +9,8 @@
 
 
 -	modificar el archivo **conexion.php**
+
+` $db = new ezSQL_mysql('tu usuario', 'tu contraseña', 'tu base de datos', 'localhost'); `
 	
 -	cambiar las conexiones a tu base de datos.
 	
