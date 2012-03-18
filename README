@@ -1,0 +1,16 @@
+# ese-login simple login 
+
+ que es?:
+
+	"es una base para comenzar a usar un sistema de login escrito en php"
+	
+
+# instalar
+
+
+	modificar el archivo conexion.php 
+	
+	cambiar las conexiones a tu base de datos.
+	
+	migrar desde phpmyadmin el _sql/ese-login.sql
+	
