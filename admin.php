@@ -37,42 +37,7 @@ if(!$_SESSION['usuario_logueado']){
         </style>
     </head>
     <body>
-		<div class="navbar navbar-fixed-top">
-		  <div class="navbar-inner">
-		    <div class="container">
-		      	<a class="brand" href="#">
-				  FFM
-				</a>
-				<ul class="nav">
-					<li class="active"><a href="admin.php">Inicio</a></li>
-				</ul>
-				<ul class="pull-right nav ">
-					<li class="dropdown">
-						<a href="#" class="dropdown-tongle" data-toggle="dropdown">
-						<i class="icon-user icon-white"></i> 	
-						<?=$_SESSION['usuario_logueado']->nombre;?>
-							          <b class="caret"></b>
-							
-							</a>
-						
-							<ul class="dropdown-menu">
-							      <li><a href="actividades.php">
-								<i class="icon-th-list"></i> 
-								Actividades</a></li>
-								<li> 
-									<a href="usuarios.php">
-										<i class="icon-th-list"></i>
-										Usuarios</a></li>
-								 <li class="divider"></li>
-								<li><a href="logout.php">
-									<i class="icon-off"></i> 
-									Desconectar</a></li>
-							    </ul>
-						 </li>
-				</ul>	
-		    </div>
-		  </div>
-		</div>
+<?php include '_barra.php'; ?>
       <div class="container">
 
           <ul class="breadcrumb">
